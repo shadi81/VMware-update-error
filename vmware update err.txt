@@ -1,0 +1,16 @@
+
+VMware Kernel module updater error FIX:
+1. vmware -v #to know ur vmare version.
+2. wget https://github.com/mkubecek/vmware-host-modules/archive/workstation-15.5.6.tar.gz
+3. tar -xzf workstation-15.5.6.tar.gz
+3. cd vmware-host-modules-workstation-15.5.6
+4. make
+5. sudo make install
+
+
+**Serial Keys:
+
+FU512-2DG1H-M85QZ-U7Z5T-PY8ZD
+CU3MA-2LG1N-48EGQ-9GNGZ-QG0UD
+GV7N2-DQZ00-4897Y-27ZNX-NV0TD
+YZ718-4REEQ-08DHQ-JNYQC-ZQRD0
